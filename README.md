@@ -14,3 +14,6 @@ Heartbuddy is separated into multiple modules. These modules are linked to from 
 
 ## Models
 The models are povided at...
+
+## Licensing
+The components of HeartBuddy are licensed individually. For more information, go to the repos for each component.
