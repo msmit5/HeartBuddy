@@ -1,3 +1,6 @@
 [submodule "HeartBuddy-Server"]
 	path = HeartBuddy-Server
 	url = git@github.com:msmit5/HeartBuddy-Server.git
+[submodule "HeartBuddyFeatureExtraction"]
+	path = HeartBuddyFeatureExtraction
+	url = https://github.com/DevynSouza/HeartBuddyFeatureExtraction
