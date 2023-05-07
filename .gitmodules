@@ -7,3 +7,6 @@
 [submodule "HB-FRONTEND"]
 	path = HB-FRONTEND
 	url = git@github.com:jakeintravaia/HB-FRONTEND.git
+[submodule "HB-MODELS"]
+	path = HB-MODELS
+	url = https://github.com/jakeintravaia/HB-MODELS
