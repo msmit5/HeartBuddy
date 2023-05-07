@@ -4,3 +4,6 @@
 [submodule "HeartBuddyFeatureExtraction"]
 	path = HeartBuddyFeatureExtraction
 	url = https://github.com/DevynSouza/HeartBuddyFeatureExtraction
+[submodule "HB-FRONTEND"]
+	path = HB-FRONTEND
+	url = git@github.com:jakeintravaia/HB-FRONTEND.git
