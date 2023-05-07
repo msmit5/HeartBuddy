@@ -1,0 +1,3 @@
+[submodule "HeartBuddy-Server"]
+	path = HeartBuddy-Server
+	url = git@github.com:msmit5/HeartBuddy-Server.git
